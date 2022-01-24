@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://funfunnypl.github.io/zabawnezabawkipl/sitemap.xml

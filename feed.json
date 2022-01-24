@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "zabawnezabawki.pl",
+    "description": "",
+    "home_page_url": "https://funfunnypl.github.io/zabawnezabawkipl",
+    "feed_url": "https://funfunnypl.github.io/zabawnezabawkipl/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "funfunny"
+    },
+    "items": [
+    ]
+}
